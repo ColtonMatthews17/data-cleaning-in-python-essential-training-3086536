@@ -1,4 +1,10 @@
+#Fck all that noise heres what ya need to know
+
+pip install pandas for csv usage / reading
+pip install malplotlib to be able to create the charts this needs
+
 # Data Cleaning in Python Essential Training
+
 This is the repository for the LinkedIn Learning course Data Cleaning in Python Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![1667582799961](https://user-images.githubusercontent.com/28540243/200747823-e4b24a18-e1ae-4075-bb04-02e4b8cd9da3.jpeg)
